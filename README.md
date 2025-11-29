@@ -3,12 +3,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=diggs2k&label=Profile%20views&color=0e75b6&style=flat" alt="diggs2k" /> </p>
 
-<h3 align="center">🎯 **About me**</h3>
+<h3 align="center">🎯 About me </h3>
 <h4>- 🧑‍🎓 I'm a Computer Engineering student at Instituto Politecnico da Guarda</h4>
 <h4>- 💻 Interested in: Cybersecurity, Web Development, Software Development, Computer Networks and Robotics </h4>
-<h4>- 🚀 Currently looking for an **internship** in Porto --></h4>
+<h4>- 🚀 Currently looking for an internship in Porto --></h4>
 
-<h3 align="left">You can connect with me @ dsoares2000@gmail.com</h3>
+<h4 align="left">You can connect with me @ dsoares2000@gmail.com</h4>
 <p align="left">
 </p>
 
