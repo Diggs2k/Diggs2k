@@ -1,10 +1,10 @@
 <h1 align="center">Hello, I'm Diogo</h1>
 <h3 align="center">A Computer Engineering Student from Portugal</h3>
 
-<h3 align="center">🎯 About me </h3>
-<h4>- 🧑‍🎓 I'm a Computer Engineering student at Instituto Politecnico da Guarda</h4>
-<h4>- 💻 Interested in: Cybersecurity, Web Development, Software Development, Computer Networks and Robotics </h4>
-<h4>- 🚀 Currently looking for an internship in Porto --></h4>
+<p> align="center">🎯 About me </p>
+<p>- 🧑‍🎓 I'm a Computer Engineering student at Instituto Politecnico da Guarda</p>
+<p>- 💻 Interested in: Cybersecurity, Web Development, Software Development, Computer Networks and Robotics </p>
+<p>- 🚀 Currently looking for an internship in Porto --></p>
 
 <h4 align="left">You can connect with me @ dsoares2000@gmail.com</h4>
 <p align="left">
